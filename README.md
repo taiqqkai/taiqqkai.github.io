@@ -1,4 +1,4 @@
-# Taiqqkai.github.io
+# [Taiqqkai.github.io](https://sikuquanshu-1.gitbook.io/sikuquanshu-docs/)
 
 [四库全书·Fun](https://www.sikuquanshu.fun)：https://www.sikuquanshu.fun
 四库全书·Fun 是一个致力于让古典文化学习变得生动有趣的网站。正如其域名“Fun”所暗示的，它突破了古籍文献严肃、艰深的传统印象，旨在通过轻松、互动的方式，吸引广大网友特别是年轻一代接触《四库全书》这一中华文化瑰宝。网站设计可能充满巧思，将厚重的历史以更富趣味性的形式呈现。
